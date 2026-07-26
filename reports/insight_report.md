@@ -13,7 +13,7 @@ Analisis terhadap 10.000 data nasabah menunjukkan churn rate keseluruhan sebesar
 
 4. **Usia sangat berkorelasi dengan churn**: nasabah **Senior (>50 tahun)** churn **44,65%**, jauh di atas **Dewasa (30-50)** di **19,02%** dan **Muda (<30)** hanya **7,56%**.
 
-5. Dari 3.617 nasabah tanpa saldo tercatat (36,17% dari total), **13,82%** di antaranya churn — **lebih rendah** dibanding nasabah yang punya saldo (24,08%). Ini berlawanan dengan intuisi awal: nasabah tanpa saldo justru cenderung lebih loyal, kemungkinan karena mereka pengguna produk lain (kartu kredit, pinjaman) yang tidak bergantung pada saldo tabungan.
+5. Dari 3.617 nasabah tanpa saldo tercatat (36,17% dari total), **13,82%** di antaranya churn **lebih rendah** dibanding nasabah yang punya saldo (24,08%). Ini berlawanan dengan intuisi awal: nasabah tanpa saldo justru cenderung lebih loyal, kemungkinan karena mereka pengguna produk lain (kartu kredit, pinjaman) yang tidak bergantung pada saldo tabungan.
 
 6. **Interaksi gender x negara**: churn tertinggi ada pada kombinasi **Germany-Female (37,55%)**, sementara churn terendah pada **France-Male (12,71%)**.
 
